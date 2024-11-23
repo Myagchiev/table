@@ -1,0 +1,15 @@
+
+th {
+    border: solid 1px #dfdfe2;
+    text-align: left;
+    font-weight: 700;
+    padding: 6px 12px;
+    font-size: 1rem;
+    background-color: #dfdfe2;
+    letter-spacing: 0.2px;
+    text-transform: uppercase;
+}
+
+td {
+    padding: 6px 12px;
+}
